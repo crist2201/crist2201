@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hello! I'm Cristian a data Scientist with 3+ years of hands-on experience in Python and 2+ years in SQL. Skilled in ETL automation, API integration, cloud platforms like GCP, containerization using Docker, and orchestration frameworks such as
-LangChain. Recently completed an MSc in Data Science from the University of Bath, where I focused on advanced
-topics including machine learning, deep learning, large language models (LLMs), and data storytelling.
+Hello! I'm Cristian a data Scientist with 3+ years of hands-on experience in Python and 2+ years in SQL. My journey into data science began as a Project Engineer, where I cultivated a passion for the full data lifecycle, from generating data via IoT devices to developing real-time dashboards with Power BI and Streamlit. 
+
+As a QA Automation Engineer, I built robust automation frameworks that enhanced my proficiency in Python and SQL, while executing data scraping, cleaning, and validation tasks. This technical foundation led to a Data Analyst role, where I refined my skills in Power BI, advanced data storytelling, and Python’s data science and machine learning libraries. To deepen my theoretical expertise, I completed an MSc in Data Science at the University of Bath, culminating in a dissertation on uncertainty methods applied to Chain of Thought trajectories in Large Language Models—bridging practical experience with cutting-edge AI research.
+
+Looking ahead, I am committed to advancing a future where data science is ethical, transparent, and inclusive. By championing responsible AI practices and promoting model interpretability, I aim to contribute to a field that balances innovation with accountability and delivers meaningful impact across diverse sectors.
 
 
 ## 🌐 Socials:
